@@ -1,5 +1,13 @@
 # Análise de Consumo de Energia e Fator de Potência
 
+##Integrantes:
+João pedro camperlingo - 568957
+Lucas silva de abreu - 572321
+Nicolas nishi - 572242
+Enzo guislandi - 569885
+Guilherme reiche - 569918
+
+
 ## 📌 Sobre a atividade
 
 Esta atividade teve como objetivo realizar uma análise exploratória de dados relacionados ao **consumo de energia elétrica** e ao **fator de potência**, utilizando Python e a biblioteca Pandas.
