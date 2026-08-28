@@ -77,8 +77,10 @@ Esses registros podem merecer maior atenção da equipe de energia porque combin
 └── README.md
 ```
 
-## 📚 Conclusão
-
-A atividade permitiu aplicar conceitos de **análise e filtragem de dados com Pandas**, utilizando critérios estatísticos e operacionais para identificar situações de maior interesse no consumo de energia.
-
-A combinação de diferentes indicadores, como consumo e fator de potência, possibilita uma análise mais específica e pode auxiliar na identificação de situações que merecem investigação e acompanhamento.
+## 📚 Fontes
+1- https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction
+2 - https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption
+3 -  https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city
+4 - https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
+5 - https://www.kaggle.com/code/ahmeduzaki/wind-solar-energy-production-analysis
+6 -  https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
